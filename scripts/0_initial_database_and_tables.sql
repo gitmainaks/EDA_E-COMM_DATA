@@ -37,7 +37,7 @@ truncate table FactTable;
 go
 
 bulk insert FactTable
-from 'C:\Users\MAINAK AS\OneDrive\Desktop\E-Commerce Data\ecomm_data.csv'
+from 'C:\Users\E-Commerce Data\ecomm_data.csv'
 with ( 
 	firstrow = 2,
 	fieldterminator = ',',
