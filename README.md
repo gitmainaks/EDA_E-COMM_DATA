@@ -2,7 +2,7 @@
 
 # 🧠 E-Commerce Data Warehouse & Business Intelligence SQL Project
 
-### 🚀 Comprehensive SQL Script for Building, Cleaning, and Analyzing an E-Commerce Dataset
+## 🚀 Comprehensive SQL Script for Building, Cleaning, and Analyzing an E-Commerce Dataset
 
 
 
