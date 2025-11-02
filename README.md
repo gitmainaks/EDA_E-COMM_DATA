@@ -11,7 +11,7 @@ This project demonstrates a complete SQL-based data warehousing and analytics wo
 It covers everything — from database creation, data cleaning, and ETL transformations to advanced business intelligence reporting using SQL Server.
 The goal is to simulate a real-world data engineering + analytics pipeline, transforming raw CSV data into actionable insights via SQL views and metrics dashboards.
 
-
+## 📊 KPIs Extracted
 | Metric                 | Description                           |
 | ---------------------- | ------------------------------------- |
 | 🛒 Total Sales         | Overall business revenue              |
