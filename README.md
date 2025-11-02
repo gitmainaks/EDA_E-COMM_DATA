@@ -23,5 +23,15 @@ The goal is to simulate a real-world data engineering + analytics pipeline, tran
 | ⏱️ Time Trends         | Monthly and cumulative growth         |
 | 🧩 Customer Segments   | VIP, Regular, and New customer groups |
 
+## 📅 Key SQL Concepts Demonstrated
+| Category               | Concepts Used                                    |
+| ---------------------- | ------------------------------------------------ |
+| **Data Preparation**   | `TRY_CAST`, `COALESCE`, `CASE`, `ALTER TABLE`    |
+| **EDA**                | `DISTINCT`, `GROUP BY`, `ORDER BY`, `SUM`, `AVG` |
+| **Analytics**          | `RANK()`, `LAG()`, `DATETRUNC()`, `FORMAT()`     |
+| **Segmentation**       | `CASE WHEN` logic for categorization             |
+| **Cumulative Metrics** | `SUM() OVER`, `AVG() OVER`                       |
+| **Views & Reports**    | `CREATE VIEW` for reusable BI dashboards         |
+
 
 
