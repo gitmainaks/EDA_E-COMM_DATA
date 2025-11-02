@@ -33,5 +33,6 @@ The goal is to simulate a real-world data engineering + analytics pipeline, tran
 | **Cumulative Metrics** | `SUM() OVER`, `AVG() OVER`                       |
 | **Views & Reports**    | `CREATE VIEW` for reusable BI dashboards         |
 
-
+## 🪄 License
+This project is licensed under the MIT License — feel free to use, modify, and share with attribution.
 
